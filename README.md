@@ -1,4 +1,4 @@
-# ML-Happiness-Classification-Analysis-Project
+# ML-Classification-Analysis-Project
 
 The dataset we will be working with comprises responses from the survey conducted among residents of different cities. It includes the following features:
 
